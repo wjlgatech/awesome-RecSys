@@ -15,7 +15,11 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 8. [SlideShare PPT](https://github.com/wjlgatech/awesome-RecSys#8-slideshare-ppt)
 
 ## 0. Datasets
+
 - [Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets)
+
+[source](https://github.com/chihming/competitive-recsys)
+
 - [UCSD Julian McAuley lab Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 - [GroupLens](https://grouplens.org/)
   - [MovieLens](https://grouplens.org/datasets/movielens/)
