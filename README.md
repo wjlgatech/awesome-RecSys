@@ -16,7 +16,7 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 
 ## 0. Datasets
 - [Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets)
-- [UCSD JulianMcauley lab Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+- [UCSD Julian McAuley lab Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 - [GroupLens](https://grouplens.org/)
   - [MovieLens](https://grouplens.org/datasets/movielens/)
   - [HetRec2011](https://grouplens.org/datasets/hetrec-2011/)
