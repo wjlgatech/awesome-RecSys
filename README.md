@@ -12,7 +12,9 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 6. [Useful Sites](https://github.com/jihoo-kim/awesome-RecSys#6-useful-sites)
 7. [Youtube Videos](https://github.com/jihoo-kim/awesome-RecSys#7-youtube-videos)
 8. [SlideShare PPT](https://github.com/jihoo-kim/awesome-RecSys#8-slideshare-ppt)
-
+## 0. Datasets
+* [Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets)
+* 
 ## 1. Books
 * [Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf) (2016, Charu Aggarwal)
 * [Recommender Systems Handbook 2nd Edition](https://edyaaleh.files.wordpress.com/2016/02/recommendersystemshandbook.pdf) (2015, Francesco Ricci)
