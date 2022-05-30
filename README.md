@@ -1,4 +1,12 @@
 # awesome-RecSys
+
+## Objectives
+I aim to make everything here TRUE:
+- Executable with code
+- Understandable with *just enough* context and examples
+- Reusable with simple & clear API (e.g. function, class, package)
+- Transferable to another field, using graph ML best practices and  ADEPT thinking= Analogy+Diagram+Example+PlainStorytelling+TechnicalAbstraction
+
 A curated list of awesome Recommender System - designed by **Jihoo Kim**
 
 ![RS](https://user-images.githubusercontent.com/50820635/85274861-7e0e3b00-b4ba-11ea-8cd3-2690ec55a67a.jpg)
